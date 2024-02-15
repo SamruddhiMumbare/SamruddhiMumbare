@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamruddhiMumbare
 - 👀 I’m interested in Data Science and Software development.
-- 🌱 I’m currently learning Python packages and diving deep into data structures and algorithms.
+- 🌱
 - 📫 How to reach me- mumbaresamruddhi@gmail.com
                       
 
