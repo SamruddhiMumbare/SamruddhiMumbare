@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SamruddhiMumbare
+- 👋 Hi, I’m @Samruddhi
 - 👀 I’m interested in Data Science and Software development.
 - 🌱 Currently exploring Frameworks and Computer Vision.
 - 📫 How to reach me- mumbaresamruddhi@gmail.com
